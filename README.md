@@ -2,10 +2,6 @@
 Hi 👋, I'm Yamir Martinez  
 **Desarrollador Web Junior | TSDS** 🌟
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=YamirMartinez&label=Profile%20views&color=0e75b6&style=flat" alt="YamirMartinez" /> 
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mí
