@@ -24,9 +24,7 @@ Hi 👋, I'm Yamir Martinez
 
 <p align="left">
 <a href="https://linkedin.com/in/tu-usuario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tu-usuario" height="30" width="40" /></a>
-<a href="https://twitter.com/tu-usuario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tu-usuario" height="30" width="40" /></a>
-<a href="https://instagram.com/tu-usuario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tu-usuario" height="30" width="40" /></a>
-<a href="https://github.com/YamirMartinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="YamirMartinez" height="30" width="40" /></a>
+<a href="https://github.com/YamirM577" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="YamirMartinez" height="30" width="40" /></a>
 </p>
 
 ---
@@ -79,34 +77,6 @@ Hi 👋, I'm Yamir Martinez
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-</p>
-
----
-
-## 📊 Statistical Data:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YamirMartinez&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamirMartinez&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YamirMartinez&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YamirMartinez&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YamirMartinez&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
